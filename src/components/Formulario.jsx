@@ -84,7 +84,7 @@ const [criptomoneda, SelectCriptomoneda] = useSelectMonedas('Selecciona la Cript
             <SelectCriptomoneda/>
             <InputSubmit 
             type="submit" 
-            value="Cotizardor Perron" />
+            value="Cotizar" />
         </form>
     </>
     )
